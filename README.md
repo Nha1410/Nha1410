@@ -34,4 +34,4 @@ I'm a backend engineer specializing in Go, working on high-security license syst
 
 ## 📫 Contact
 - ✉️ thanhnha141001@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/nh%C3%A3-l%C3%AA-thanh-93524b23b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nha-le-thanh-93524b23b/)
